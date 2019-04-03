@@ -1,0 +1,13 @@
+{
+  "python.pythonPath": "C:\\Users\\savaity\\AppData\\Local\\Programs\\Python\\Python36\\python.exe",
+  "azureFunctions.projectRuntime": "~2",
+  "azureFunctions.projectLanguage": "Python",
+  "azureFunctions.deploySubpath": "simplePrint.zip",
+  "azureFunctions.preDeployTask": "func: pack",
+  "files.exclude": {
+    "obj": true,
+    "bin": true
+  },
+  "azureFunctions.pythonVenv": ".env",
+  "debug.internalConsoleOptions": "neverOpen"
+}
